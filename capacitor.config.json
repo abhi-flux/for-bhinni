@@ -1,0 +1,9 @@
+{
+  "appId": "com.abhi.forbhinni",
+  "appName": "For Bhinni",
+  "webDir": "dist",
+  "backgroundColor": "#FBF3F0",
+  "android": {
+    "backgroundColor": "#FBF3F0"
+  }
+}
